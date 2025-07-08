@@ -39,8 +39,9 @@ This table can be applied to **future flight schedules** to estimate lounge dema
 
 ## 📁 Files Included
 
-- `lounge_lookup_table.xlsx` – Final result
+- `Final Result Lounge Eligibility Lookup Table - Task 1.xlsx` – Final result
 - `README.md` – This documentation
+- `BA-TASK1.ipynb`- EDA notebook
 
 ## 🙋‍♂️ Notes
 
